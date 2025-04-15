@@ -1,20 +1,20 @@
-# 📅 Classroom Scheduler
+# Classroom Scheduler
 
 A web-based Classroom Scheduler application designed to help organize class schedules and manage notes efficiently. This simple yet effective tool enables users to input, view, and delete class-related notes in an intuitive interface.
 
 ---
 
-## 🔥 Features
+##  Features
 
-- 📝 Add and manage classroom notes or schedules  
-- 🔍 Search functionality to find notes quickly  
-- 🧹 Clean and minimal UI with smooth user experience  
-- 🗑️ Option to delete unwanted notes  
-- 📱 Responsive design for multiple screen sizes
+-  Add and manage classroom notes or schedules  
+-  Search functionality to find notes quickly  
+-  Clean and minimal UI with smooth user experience  
+-  Option to delete unwanted notes  
+-  Responsive design for multiple screen sizes
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **HTML5** – Markup for structure  
 - **CSS3** – Styling with responsive layout  
@@ -23,7 +23,7 @@ A web-based Classroom Scheduler application designed to help organize class sche
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 1. **Clone the Repository**  
    ```bash
